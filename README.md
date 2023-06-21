@@ -57,7 +57,3 @@ alter table employee add index idx_emp_name_2 (name);
 drop index idx_emp_name on employee
 ```
 
-展示所有資料庫
-```mysql
-
-```
