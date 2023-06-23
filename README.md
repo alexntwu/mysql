@@ -5,3 +5,6 @@
 
 ## Chap 05 新增刪除修改資料
 [ch05.md] https://github.com/alexntwu/mysql/blob/main/ch05.md
+
+## CHAP 06 MYSQL查詢資料
+[ch06.md] https://github.com/alexntwu/mysql/blob/main/ch06.md
