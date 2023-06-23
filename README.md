@@ -12,5 +12,5 @@
 ## Chap 07 進階查詢語法
 [ch07.md] https://github.com/alexntwu/mysql/blob/main/ch07.md
 
-## Chap 09 MYSQL可程式物件
+## Chap 09 MYSQL的可程式物件
 [ch09.md] https://github.com/alexntwu/mysql/blob/main/ch09.md
