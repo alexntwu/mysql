@@ -1,5 +1,8 @@
 # MySQL資料庫建置與實作
 
+## 安裝 XAMPP
+[appendix01.md] https://github.com/alexntwu/mysql/blob/main/appendix01.md
+
 ## Chap 04 建立資料庫表格及索引
 [ch04.md] https://github.com/alexntwu/mysql/blob/main/ch04.md
 
