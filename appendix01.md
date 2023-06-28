@@ -1,15 +1,17 @@
-# Appendix 1. MySQL安裝
+# Appendix MySQL安裝
 
 ![image](https://github.com/alexntwu/mysql/assets/1982325/72e239c7-db20-4bd7-820c-a6a30423205c)
 
-## 下載XAMPP
+## 下載安裝XAMPP
 ```
 https://www.apachefriends.org/zh_tw/download.html
 ```
 ![image](https://github.com/alexntwu/mysql/assets/1982325/d6b25219-52e4-4351-9800-0593a7042cd7)
 
 下載選定版本後，執行安裝
+
 ![image](https://github.com/alexntwu/mysql/assets/1982325/d1a8a40f-3f2f-4df2-8cca-3ff7cb0f398f)
+
 
 
 ## 安裝 sakila 範例資料庫
@@ -51,10 +53,12 @@ SHOW FULL TABLES;
 ```
 
 ## MySQL Workbench 安裝
-官方下載網址
-![image](https://github.com/alexntwu/mysql/assets/1982325/a8f11fd5-df09-47c6-a997-dc5f7c46bec3)
 
+官方下載網址
 ```
 https://dev.mysql.com/downloads/workbench/
 ```
+
+![image](https://github.com/alexntwu/mysql/assets/1982325/a8f11fd5-df09-47c6-a997-dc5f7c46bec3)
+
 
